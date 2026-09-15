@@ -1704,20 +1704,21 @@ function getHTMLBody() {
           GitHub
         </a>
         <span class="footer-separator">•</span>
-        <a href="https://github.com/wuzf/2fa/issues" target="_blank" rel="noopener noreferrer" class="footer-link">
-          反馈问题
-        </a>
-        <span class="footer-separator">•</span>
-        <a href="https://github.com/wuzf/2fa/blob/main/README.md" target="_blank" rel="noopener noreferrer" class="footer-link">
-          使用文档
-        </a>
+				<span class="footer-version">v${APP_VERSION}</span>
+        // <a href="https://github.com/wuzf/2fa/issues" target="_blank" rel="noopener noreferrer" class="footer-link">
+        //   反馈问题
+        // </a>
+        // <span class="footer-separator">•</span>
+        // <a href="https://github.com/wuzf/2fa/blob/main/README.md" target="_blank" rel="noopener noreferrer" class="footer-link">
+        //   使用文档
+        // </a>
       </div>
-      <div class="footer-info">
-        Made with ❤️ by <a href="https://github.com/wuzf" target="_blank" rel="noopener noreferrer" class="footer-link">wuzf</a>
-        <span class="footer-separator">•</span>
-        <span class="footer-version">v${APP_VERSION}</span>
-        <a id="footerUpdateBadge" class="footer-update-badge" href="https://github.com/wuzf/2fa" target="_blank" rel="noopener noreferrer" style="display: none;"></a>
-      </div>
+      // <div class="footer-info">
+      //   Made with ❤️ by <a href="https://github.com/wuzf" target="_blank" rel="noopener noreferrer" class="footer-link">wuzf</a>
+      //   <span class="footer-separator">•</span>
+      //   <span class="footer-version">v${APP_VERSION}</span>
+      //   <a id="footerUpdateBadge" class="footer-update-badge" href="https://github.com/wuzf/2fa" target="_blank" rel="noopener noreferrer" style="display: none;"></a>
+      // </div>
     </div>
   </footer>
 
